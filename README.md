@@ -1,2 +1,1 @@
-# E_Big
-Python quiz game app without UI
+# Python quiz game app with database
